@@ -2,6 +2,21 @@
   "name": "@azure/msal-browser",
   "entries": [
     {
+      "date": "Wed, 09 Aug 2023 19:54:15 GMT",
+      "tag": "@azure/msal-browser_v3.0.1-0",
+      "version": "3.0.1-0",
+      "comments": {
+        "prerelease": [
+          {
+            "author": "kshabelko@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "2819735fe031ae36bea1d88f31f56089ac6ee21f",
+            "comment": "Expose \"CacheRecord\" as part of internals API #6291"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 07 Aug 2023 18:15:15 GMT",
       "tag": "@azure/msal-browser_v3.0.0",
       "version": "3.0.0",

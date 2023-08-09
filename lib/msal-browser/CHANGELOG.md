@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-browser
 
-This log was last generated on Mon, 07 Aug 2023 18:15:15 GMT and should not be manually modified.
+This log was last generated on Wed, 09 Aug 2023 19:54:15 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 3.0.1-0
+
+Wed, 09 Aug 2023 19:54:15 GMT
+
+### Changes
+
+- Expose "CacheRecord" as part of internals API #6291 (kshabelko@microsoft.com)
 
 ## 3.0.0
 
